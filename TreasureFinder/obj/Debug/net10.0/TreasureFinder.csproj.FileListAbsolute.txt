@@ -1,0 +1,14 @@
+Z:\Code\TreasureFinder\bin\Debug\net10.0\TreasureFinder.exe
+Z:\Code\TreasureFinder\bin\Debug\net10.0\TreasureFinder.deps.json
+Z:\Code\TreasureFinder\bin\Debug\net10.0\TreasureFinder.runtimeconfig.json
+Z:\Code\TreasureFinder\bin\Debug\net10.0\TreasureFinder.dll
+Z:\Code\TreasureFinder\bin\Debug\net10.0\TreasureFinder.pdb
+Z:\Code\TreasureFinder\obj\Debug\net10.0\TreasureFinder.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\TreasureFinder\obj\Debug\net10.0\TreasureFinder.AssemblyInfoInputs.cache
+Z:\Code\TreasureFinder\obj\Debug\net10.0\TreasureFinder.AssemblyInfo.cs
+Z:\Code\TreasureFinder\obj\Debug\net10.0\TreasureFinder.csproj.CoreCompileInputs.cache
+Z:\Code\TreasureFinder\obj\Debug\net10.0\TreasureFinder.dll
+Z:\Code\TreasureFinder\obj\Debug\net10.0\refint\TreasureFinder.dll
+Z:\Code\TreasureFinder\obj\Debug\net10.0\TreasureFinder.pdb
+Z:\Code\TreasureFinder\obj\Debug\net10.0\TreasureFinder.genruntimeconfig.cache
+Z:\Code\TreasureFinder\obj\Debug\net10.0\ref\TreasureFinder.dll
