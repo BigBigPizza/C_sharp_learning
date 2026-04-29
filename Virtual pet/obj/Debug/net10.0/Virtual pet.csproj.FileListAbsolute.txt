@@ -1,0 +1,14 @@
+Z:\Code\Virtual pet\bin\Debug\net10.0\Virtual pet.exe
+Z:\Code\Virtual pet\bin\Debug\net10.0\Virtual pet.deps.json
+Z:\Code\Virtual pet\bin\Debug\net10.0\Virtual pet.runtimeconfig.json
+Z:\Code\Virtual pet\bin\Debug\net10.0\Virtual pet.dll
+Z:\Code\Virtual pet\bin\Debug\net10.0\Virtual pet.pdb
+Z:\Code\Virtual pet\obj\Debug\net10.0\Virtual pet.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\Virtual pet\obj\Debug\net10.0\Virtual pet.AssemblyInfoInputs.cache
+Z:\Code\Virtual pet\obj\Debug\net10.0\Virtual pet.AssemblyInfo.cs
+Z:\Code\Virtual pet\obj\Debug\net10.0\Virtual pet.csproj.CoreCompileInputs.cache
+Z:\Code\Virtual pet\obj\Debug\net10.0\Virtual pet.dll
+Z:\Code\Virtual pet\obj\Debug\net10.0\refint\Virtual pet.dll
+Z:\Code\Virtual pet\obj\Debug\net10.0\Virtual pet.pdb
+Z:\Code\Virtual pet\obj\Debug\net10.0\Virtual pet.genruntimeconfig.cache
+Z:\Code\Virtual pet\obj\Debug\net10.0\ref\Virtual pet.dll
