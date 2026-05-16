@@ -1,0 +1,14 @@
+Z:\Code\Text multiplier\bin\Debug\net10.0\Text multiplier.exe
+Z:\Code\Text multiplier\bin\Debug\net10.0\Text multiplier.deps.json
+Z:\Code\Text multiplier\bin\Debug\net10.0\Text multiplier.runtimeconfig.json
+Z:\Code\Text multiplier\bin\Debug\net10.0\Text multiplier.dll
+Z:\Code\Text multiplier\bin\Debug\net10.0\Text multiplier.pdb
+Z:\Code\Text multiplier\obj\Debug\net10.0\Text multiplier.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\Text multiplier\obj\Debug\net10.0\Text multiplier.AssemblyInfoInputs.cache
+Z:\Code\Text multiplier\obj\Debug\net10.0\Text multiplier.AssemblyInfo.cs
+Z:\Code\Text multiplier\obj\Debug\net10.0\Text multiplier.csproj.CoreCompileInputs.cache
+Z:\Code\Text multiplier\obj\Debug\net10.0\Text multiplier.dll
+Z:\Code\Text multiplier\obj\Debug\net10.0\refint\Text multiplier.dll
+Z:\Code\Text multiplier\obj\Debug\net10.0\Text multiplier.pdb
+Z:\Code\Text multiplier\obj\Debug\net10.0\Text multiplier.genruntimeconfig.cache
+Z:\Code\Text multiplier\obj\Debug\net10.0\ref\Text multiplier.dll
