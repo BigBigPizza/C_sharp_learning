@@ -1,0 +1,14 @@
+Z:\Code\Library storing\bin\Debug\net10.0\Library storing.exe
+Z:\Code\Library storing\bin\Debug\net10.0\Library storing.deps.json
+Z:\Code\Library storing\bin\Debug\net10.0\Library storing.runtimeconfig.json
+Z:\Code\Library storing\bin\Debug\net10.0\Library storing.dll
+Z:\Code\Library storing\bin\Debug\net10.0\Library storing.pdb
+Z:\Code\Library storing\obj\Debug\net10.0\Library storing.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\Library storing\obj\Debug\net10.0\Library storing.AssemblyInfoInputs.cache
+Z:\Code\Library storing\obj\Debug\net10.0\Library storing.AssemblyInfo.cs
+Z:\Code\Library storing\obj\Debug\net10.0\Library storing.csproj.CoreCompileInputs.cache
+Z:\Code\Library storing\obj\Debug\net10.0\Library storing.dll
+Z:\Code\Library storing\obj\Debug\net10.0\refint\Library storing.dll
+Z:\Code\Library storing\obj\Debug\net10.0\Library storing.pdb
+Z:\Code\Library storing\obj\Debug\net10.0\Library storing.genruntimeconfig.cache
+Z:\Code\Library storing\obj\Debug\net10.0\ref\Library storing.dll
