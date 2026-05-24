@@ -1,0 +1,14 @@
+Z:\Code\Uni course track\Uni course track\bin\Debug\net10.0\Uni course track.exe
+Z:\Code\Uni course track\Uni course track\bin\Debug\net10.0\Uni course track.deps.json
+Z:\Code\Uni course track\Uni course track\bin\Debug\net10.0\Uni course track.runtimeconfig.json
+Z:\Code\Uni course track\Uni course track\bin\Debug\net10.0\Uni course track.dll
+Z:\Code\Uni course track\Uni course track\bin\Debug\net10.0\Uni course track.pdb
+Z:\Code\Uni course track\Uni course track\obj\Debug\net10.0\Uni course track.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\Uni course track\Uni course track\obj\Debug\net10.0\Uni course track.AssemblyInfoInputs.cache
+Z:\Code\Uni course track\Uni course track\obj\Debug\net10.0\Uni course track.AssemblyInfo.cs
+Z:\Code\Uni course track\Uni course track\obj\Debug\net10.0\Uni course track.csproj.CoreCompileInputs.cache
+Z:\Code\Uni course track\Uni course track\obj\Debug\net10.0\Uni course track.dll
+Z:\Code\Uni course track\Uni course track\obj\Debug\net10.0\refint\Uni course track.dll
+Z:\Code\Uni course track\Uni course track\obj\Debug\net10.0\Uni course track.pdb
+Z:\Code\Uni course track\Uni course track\obj\Debug\net10.0\Uni course track.genruntimeconfig.cache
+Z:\Code\Uni course track\Uni course track\obj\Debug\net10.0\ref\Uni course track.dll
