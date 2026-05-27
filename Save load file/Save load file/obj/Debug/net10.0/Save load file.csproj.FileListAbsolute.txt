@@ -1,0 +1,14 @@
+Z:\Code\Save load file\Save load file\bin\Debug\net10.0\Save load file.exe
+Z:\Code\Save load file\Save load file\bin\Debug\net10.0\Save load file.deps.json
+Z:\Code\Save load file\Save load file\bin\Debug\net10.0\Save load file.runtimeconfig.json
+Z:\Code\Save load file\Save load file\bin\Debug\net10.0\Save load file.dll
+Z:\Code\Save load file\Save load file\bin\Debug\net10.0\Save load file.pdb
+Z:\Code\Save load file\Save load file\obj\Debug\net10.0\Save load file.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\Save load file\Save load file\obj\Debug\net10.0\Save load file.AssemblyInfoInputs.cache
+Z:\Code\Save load file\Save load file\obj\Debug\net10.0\Save load file.AssemblyInfo.cs
+Z:\Code\Save load file\Save load file\obj\Debug\net10.0\Save load file.csproj.CoreCompileInputs.cache
+Z:\Code\Save load file\Save load file\obj\Debug\net10.0\Save load file.dll
+Z:\Code\Save load file\Save load file\obj\Debug\net10.0\refint\Save load file.dll
+Z:\Code\Save load file\Save load file\obj\Debug\net10.0\Save load file.pdb
+Z:\Code\Save load file\Save load file\obj\Debug\net10.0\Save load file.genruntimeconfig.cache
+Z:\Code\Save load file\Save load file\obj\Debug\net10.0\ref\Save load file.dll
