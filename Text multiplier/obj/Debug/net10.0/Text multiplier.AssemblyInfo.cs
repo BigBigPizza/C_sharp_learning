@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Text multiplier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddff9912bbe279368911176c26085c27b1150bcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Text multiplier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Text multiplier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

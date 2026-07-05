@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hash sets and loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4fd07308017ad402fe502f1af01e6454463fde0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hash sets and loops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hash sets and loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

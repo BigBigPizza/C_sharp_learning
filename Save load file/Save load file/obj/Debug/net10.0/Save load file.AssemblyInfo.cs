@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Save load file")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddff9912bbe279368911176c26085c27b1150bcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Save load file")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Save load file")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
