@@ -16,5 +16,19 @@ namespace Treasure_Hunt
         {
             InitializeComponent();
         }
+
+        int numberOfRows = 8;
+        int numberOfColumns = 8;
+
+        int rowSize = 80;
+        int colSize = 50;
+
+        int initialXPos = 40;
+        int initialYPos = 40;
+
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            DrawMap.Draw(numberOfRows, numberOfColumns, colSize, rowSize, initialXPos, initialYPos, e);
+        }
     }
 }
