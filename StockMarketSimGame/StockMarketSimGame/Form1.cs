@@ -15,6 +15,28 @@ namespace StockMarketSimGame
         public Form1()
         {
             InitializeComponent();
+
+            //Stocks
+            Stock spaceStock = new Stock("Space CO", 200);
+            Stock farmStock = new Stock("Dirt CO", 10);
+            Stock steelStock = new Stock("Irn CO", 50);
+
+            List<Stock> stockList = new List<Stock> { spaceStock, farmStock, steelStock };
+
+            //Initial Value
+            double playerStartMoney = 10000;
+
+
+    }
+
+        private void BuyButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SellButton_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
